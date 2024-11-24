@@ -1,3 +1,3 @@
-module interpreter_go
+module GOld_digger
 
 go 1.22.4

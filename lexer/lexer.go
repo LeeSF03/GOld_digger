@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"interpreter_go/token"
+	"GOld_digger/token"
 )
 
 type Lexer struct {
